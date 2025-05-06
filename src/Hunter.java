@@ -1,5 +1,4 @@
-//BYEO399
-//represents a Hunter object that can collect treasures on the map
+//Represents a Hunter object that can collect treasures on the map
 
 import java.util.ArrayList;
 public class Hunter {
