@@ -1,5 +1,4 @@
-//BYEO399
-//represents a Treasure object with x,y coordinates & its respective value
+//Represents a Treasure object with x,y coordinates & its respective value
 
 public class Treasure {
     public int x = 0;
