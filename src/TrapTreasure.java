@@ -1,5 +1,4 @@
-//BYEO399
-//modifies a Treasure object to become a trap with a penalty that reduces the player's score
+//Modifies a Treasure object to become a trap with a penalty that reduces the player's score
 
 public class TrapTreasure extends Treasure{
     private int penalty = 50;
