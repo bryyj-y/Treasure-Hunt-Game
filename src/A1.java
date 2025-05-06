@@ -1,4 +1,3 @@
-//BYEO399
 //Treasure Hunt Game where players collect treasures on a grid.
 
 import java.util.*;
