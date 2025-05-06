@@ -1,4 +1,3 @@
-//BYEO399
 //contains the games state, including hunters and treasures on the map
 
 import java.util.*;
