@@ -1,5 +1,4 @@
-//BYEO399
-//doubles the original value of a treasure object
+//Doubles the original value of a treasure object
 
 public class DoubleBonusTreasure extends Treasure{
     public DoubleBonusTreasure() {
